@@ -10,10 +10,13 @@
   <body>
     {% include navbar.html %}
     <div class="row">
-      <div class="col-md-8">
-        {{ content }}
+      <div class="col-md-1"></div> <!-- <div class="pb-3"> ? -->
+      <div class="col-md-11">
+        <div class="col-md-8">
+          {{ content }}
+        </div>
+        <div class="col-md-4"></div>
       </div>
-      <div class="col-md-4"></div>
     </div>
     {% include footer.html %}
   </body>
