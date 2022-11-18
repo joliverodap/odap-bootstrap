@@ -1,13 +1,13 @@
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Logo</a>
+      <a class="navbar-brand" href="/assets/img/odap-logo.svg">Logo</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <div class="navbar-nav me-auto mb-2 mb-lg-0">
             {% for item in site.data.navbar %}
-                <a href="{{ item.link }}"> {{ item.name }}</a>
+                <a href="{{ item.link }}">{{ item.name }} </a>
             {% endfor %} 
         </div>
         <form class="d-flex" role="search">
