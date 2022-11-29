@@ -3,7 +3,7 @@ layout: default
 title: "Outbreak Data Analysis Platform"
 ---
 
-<h1 class="display-1">Outbreak Data&nbspAnalysis Platform</h1>
+<h1 class="display-1">Outbreak Data&nbsp;Analysis Platform</h1>
 
 # Outbreak Data Analysis Platform
 
