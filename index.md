@@ -3,15 +3,13 @@ layout: default
 title: "Outbreak Data Analysis Platform"
 ---
 
+<h1 class="display-1">Outbreak Data Analysis Platform</h1>
+
 # Outbreak Data Analysis Platform
 
-The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens.
-<br />
-<br />
-During the COVID-19 pandemic, the UK generated several unique research data assets that have enabled critical discoveries and have shaped the COVID-19 response in the UK and around the world. ODAP is now in the process of unifying these data assets along with human and viral genomes within the ODAP trusted research environment (TRE). Beyond COVID-19 the ODAP will focus on emerging or re-emerging infectious agents, therapy-resistant forms of existing infectious agents or other exposures of public health interest.
-<br />
-<br />
-Within the ODAP TRE we promote further vital research and create the oppertunity for further critical discoveries by creating additional data linkages, automating data flows and analyses, and by democratising access to UK research datasets.
+The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens.  
+During the COVID-19 pandemic, the UK generated several unique research data assets that have enabled critical discoveries and have shaped the COVID-19 response in the UK and around the world. ODAP is now in the process of unifying these data assets along with human and viral genomes within the ODAP trusted research environment (TRE). Beyond COVID-19 the ODAP will focus on emerging or re-emerging infectious agents, therapy-resistant forms of existing infectious agents or other exposures of public health interest.  
+Within the ODAP TRE we promote further vital research and create the oppertunity for further critical discoveries by creating additional data linkages, automating data flows and analyses, and by democratising access to UK research datasets.  
 
 ## The Platform
 Our UKRI-supported [platform](/platform/) based at the University of Edinburgh is a trusted research environment (TRE) running on a high-performance computing space that holds data securely allowing academic and public health researchers access following a ‘five safes’ (http://www.fivesafes.org) research application and governance process.  
