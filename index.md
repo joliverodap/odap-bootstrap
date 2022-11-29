@@ -4,6 +4,9 @@ title: "Outbreak Data Analysis Platform"
 ---
 
 <h1 class="display-2">Outbreak Data&nbsp;Analysis Platform</h1>
+<br />
+<h1 class="display-2">Outbreak Data Analysis Platform</h1>
+
 
 The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens.  
 During the COVID-19 pandemic, the UK generated several unique research data assets that have enabled critical discoveries and have shaped the COVID-19 response in the UK and around the world. ODAP is now in the process of unifying these data assets along with human and viral genomes within the ODAP trusted research environment (TRE). Beyond COVID-19 the ODAP will focus on emerging or re-emerging infectious agents, therapy-resistant forms of existing infectious agents or other exposures of public health interest.  
